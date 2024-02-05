@@ -59,7 +59,41 @@
 - Implemented solution to convert vendor reports to Excel, achieving a 40% increase in automation
 - Developed project artifacts, tracked work streams, and resolved production issues within DNA core banking system
 
-## EXTRACURRICULAR EXPERIENCE
+## PROJECTS
+### Stock Price Prediction with Machine Learning
+
+#### Overview
+This project utilizes machine learning techniques to predict stock price movements based on historical data. The implemented models include Logistic Regression, Support Vector Machine (SVM), and XGBoost. The dataset used is from Amazon (AMZN) stock, with the goal of predicting whether the stock price will increase or decrease.
+
+**Note:** Due to the oversimplification of the model and limitations of the data, this model may not be effective.
+
+[Link to Repository](https://github.com/your-username/your-repository)
+
+### COVID-19 Data Visualizations
+
+#### Overview
+This repository features a Tableau dashboard analyzing COVID-19 data from Our World in Data. Visualizations include geographical distribution, cases vs deaths, and vaccination impact. Explore the interactive [Tableau Public COVID-19 Dashboard](https://public.tableau.com/app/profile/arqam.qureshi/viz/COVID19Dashboard_17069161590080/Dashboard1).
+
+Enjoy exploring the visualizations!
+
+[Link to Repository](https://github.com/arqamaq/Covid-19-Tableau-Dashboard)
+
+### Sidemen-Youtube-API
+
+#### YouTube Data Analysis
+
+### Overview
+This Python script utilizes the YouTube Data API to analyze the 'Sidemen' YouTube channel. Features include fetching channel statistics, retrieving video details, data pre-processing, and exploratory data analysis.
+
+**Notes:**
+- Specific to the 'Sidemen' channel; may need adjustments for others.
+- API key is sensitive; avoid public sharing.
+- Ensure compliance with YouTube API terms.
+
+[Link to Repository](https://github.com/arqamaq/Sidemen-Youtube-API)
+
+
+## LEADERSHIP EXPERIENCE
 
 ### Vice President of Finance – Ted Rogers Students’ Society (TRSS)
 - **Duration:** May 2022 – April 2023
